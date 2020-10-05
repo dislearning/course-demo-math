@@ -1,0 +1,30 @@
+{
+  "slug": "linear-algebra",
+  "title": "Algebra Lineal",
+  "repository": "https://github.com/trigoporres/disCourses.git",
+  "level": "initial",
+  "categories": [
+    "Math",
+    "Algebra"
+  ],
+  "tags": [
+    "initial"
+  ],
+  "image": "image.jpg",
+  "imageCredits": "Photo by [John Moeses Bauan](https://unsplash.com/@johnmoeses?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/algebra?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)",
+  "stars": 0,
+  "toc": [
+    {
+      "slug": "introduction",
+      "title": "Introducción",
+      "path": "units/introduction.md",
+      "type": "doc"
+    },
+    {
+      "slug": "matrix",
+      "title": "Matrices",
+      "path": "units/matrix.md",
+      "type": "doc"
+    }
+  ]
+}
